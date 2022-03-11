@@ -14,7 +14,7 @@ body{
     background: #ff1010;;
     transform: rotate(45deg);
     box-shadow: 30px 30px 200px rgba(0, 0, 0, 0.5);
-    animation: heart 0.8s linear infinite;
+    animation: heart 0.53s linear infinite;
 }
 @keyframes heart{
     0%{transform: rotate(45deg) scale(1);}
